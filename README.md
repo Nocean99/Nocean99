@@ -1,65 +1,25 @@
 # Noah Crouse
 
-AI/ML engineer building practical LLM, computer vision, and full-stack systems.
+AI developer in Nova Scotia. I build computer vision and applied AI systems that have to work outside a notebook, on small hardware, with honest measurements.
 
-I like turning ideas into working prototypes: simulation tools, model evaluation projects, AI assistants, dashboards, and software that proves a concept clearly enough to keep building from it.
+## Now
 
-## Currently Building
+- **Crouse Technologies Inc.**, founder. Applied computer vision on low-power edge hardware.
+- **Mitacs Business Strategy Internship**, hosted by NSCC with Springboard Atlantic, January to May 2027.
+- **NSCC graduate certificate in artificial intelligence**, 2026 to 2027.
+- **RBC HubHacks 2026, first place (team).** Automated fish counting from underwater video for Coastal Action.
 
-- Autonomous drone simulation with mission planning, safety monitoring, perception events, telemetry, and dashboard workflows
-- LLM evaluation and fine-tuning projects focused on practical question-answering systems
-- Applied AI tools for fitness, nutrition, music production, and content detection
-- Full-stack portfolio projects that connect real interfaces with useful backend logic
+## Selected work
 
-## Featured Projects
+- **[AI Gym Bro](https://github.com/Nocean99/ai-gym-bro).** Workout tracker with a conversational assistant. Flask API, PostgreSQL, OpenAI API and a Flutter client.
+- **Aegis mission intelligence.** Multi-sensor triage pipeline for RGB and infrared imagery, evaluated with leakage-controlled splits and a sealed test set. The code is private. There is a [case study](https://noahcrousewebsite.vercel.app/case-studies) on my site.
+- **[Portfolio site](https://github.com/Nocean99/noahcrousewebsite).** Next.js and TypeScript, live at [noahcrousewebsite.vercel.app](https://noahcrousewebsite.vercel.app).
 
-### Autonomous Drone MVP
+## How I work
 
-Simulation-first autonomous drone prototype for site monitoring, mission control, return-to-home behavior, safety checks, perception events, and dashboard telemetry.
+- I measure before I claim. Results are labelled as development or held-out, and null results get reported.
+- I build with AI coding tools, including Codex and Claude Code. I direct the design, review the output and own the testing.
 
-Tech: Python, JavaScript, HTML/CSS, Docker, simulation workflows
+## Contact
 
-Repo: [autonomous-drone](https://github.com/Nocean99/autonomous-drone)
-
-### LLM Capstone
-
-Fine-tuned LLM music production Q&A chatbot compared against a pre-trained Gemini model, with focus on domain-specific answers and evaluation.
-
-Tech: Python, LLMs, fine-tuning, evaluation
-
-Repo: [LLM-Capstone](https://github.com/Nocean99/LLM-Capstone)
-
-### AI Detector
-
-AI-generated content detection tool built as an applied machine learning project.
-
-Tech: Python, machine learning
-
-Repo: [AIDETECTOR](https://github.com/Nocean99/AIDETECTOR)
-
-### AI Gym Bro
-
-AI-powered gym and fitness assistant for workout guidance and fitness support.
-
-Tech: Python, AI assistant workflows
-
-Repo: [ai-gym-bro](https://github.com/Nocean99/ai-gym-bro)
-
-## Core Skills
-
-Python, TypeScript, JavaScript, React, Flask/FastAPI-style APIs, LLM evaluation, fine-tuning, prompt engineering, computer vision, Docker, GitHub workflows, full-stack prototyping
-
-## What I Am Focused On
-
-- Building projects that are easy to run, test, and explain
-- Improving AI systems with better evaluation instead of guessing
-- Connecting models to useful interfaces and real workflows
-- Documenting projects clearly so the engineering process is visible
-
-## GitHub Activity
-
-I use GitHub to show active project development, not just finished snapshots. My repositories include simulation systems, AI tools, model comparison work, and full-stack applications.
-
----
-
-Portfolio: [noahcrousewebsite](https://github.com/Nocean99/noahcrousewebsite)
+[Portfolio](https://noahcrousewebsite.vercel.app) · [LinkedIn](https://www.linkedin.com/in/noahcrouse)
